@@ -1,15 +1,18 @@
- 
+body{
+    padding: 0;
+    margin: 0;
+    color:white
+}
 .draggable {
    
     -webkit-app-region: drag;
     height: 30px;
- 
+    width: 100vw;
   
 }
 #test{
     border-radius: 20px;
-    background-color: white;
-    margin: 10px;
-    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.545);
     
+    padding: 10px;
 }
