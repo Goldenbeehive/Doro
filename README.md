@@ -19,7 +19,7 @@ Installer will not be published. The reason is due to the absurd file size (200m
 
 Please refer to the doro-tauri repo for the more reasonable file size(2 mb). 
 
-[Doro-Tauri](https://link-url-here.org](https://github.com/Goldenbeehive/doro-tauri))
+[Doro-Tauri](https://github.com/Goldenbeehive/doro-tauri)
 
 To run the application locally, follow these steps:
 
