@@ -15,14 +15,18 @@ The Doro app is an Electron-based timer application designed for managing Pomodo
   - Title bar buttons for minimizing, maximizing, and closing the app.
 
 ## Getting Started
-Installer will be published shortly, for now the only way is to run it locally with npm.
+Installer will not be published. The reason is due to the absurd file size (200mb??). 
+
+Please refer to the doro-tauri repo for the more reasonable file size(2 mb). 
+
+[Doro-Tauri](https://link-url-here.org](https://github.com/Goldenbeehive/doro-tauri))
 
 To run the application locally, follow these steps:
 
 1. **Clone the repository**:
 
     ```
-    git clone https://github.com/your-username/doro-app.git
+    git clone https://github.com/Goldenbeehive/doro.git
     ```
 
 2. **Install dependencies**:
