@@ -168,15 +168,15 @@ startButton.addEventListener('click', () => {
         timerStateText.textContent = "Pause"
         if (currentTimerMode == TimerModes.POMO) {
             endTimerIfExists()
-            startTimer(0.01)
+            startTimer(25)
         }
         if (currentTimerMode == TimerModes.SBREAK) {
             endTimerIfExists()
-            startTimer(0.02)
+            startTimer(5)
         }
         if (currentTimerMode == TimerModes.LBREAK) {
             endTimerIfExists()
-            startTimer(0.03)
+            startTimer(10)
         }
         startOrPause = 1
         updatePrevState(1)
