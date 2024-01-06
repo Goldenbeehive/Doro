@@ -1,6 +1,7 @@
 # Doro App
 
 The Doro app is an Electron-based timer application designed for managing Pomodoro sessions along with short and long breaks.
+
 ![Alt text](image.png)
 ## Features
 
